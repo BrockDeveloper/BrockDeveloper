@@ -14,11 +14,8 @@
 - Html, CSS, JavaScript
 - PHP and SQL
 
-### Connect with me: 
+### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
-[website]: https://www.brockdeveloper.github.io
-[twitter]: https://twitter.com/_ABroccoletti_
+<https://www.brockdeveloper.github.io>
+<https://twitter.com/_ABroccoletti_>
+<brockdev@mail.com>
