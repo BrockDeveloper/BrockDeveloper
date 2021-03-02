@@ -2,7 +2,7 @@
 
 ### My life:
 
-- I’m an IT science student 🧑‍🎓
+- I’m an italian IT science student 🧑‍🎓
 - I love programming 💻
 - Sometimes I run 🏃‍♂️
 - I read every day 📖
