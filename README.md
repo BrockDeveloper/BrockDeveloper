@@ -18,4 +18,4 @@
 
 - <https://brockdeveloper.github.io> :raising_hand:
 - <https://twitter.com/_ABroccoletti_> :speaker:
-- <brockdev@mail.com> :mailbox_with_mail:
+- <info@brockdev.it> :mailbox_with_mail:
