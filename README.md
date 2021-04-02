@@ -16,6 +16,6 @@
 
 ### Connect with me:
 
-- <https://brockdeveloper.github.io> :raising_hand:
+- <https://brockdev.it> :raising_hand:
 - <https://twitter.com/_ABroccoletti_> :speaker:
 - <info@brockdev.it> :mailbox_with_mail:
