@@ -28,7 +28,7 @@
 
 
 ### 📊 GitHub Stats:
-![Brock DEV's github stats](https://github-readme-stats.vercel.app/api?username=BrockDeveloper&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Brock DEV's github stats](https://github-readme-stats.vercel.app/api?username=BrockDeveloper&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 
 [website]: https://brockdev.it
