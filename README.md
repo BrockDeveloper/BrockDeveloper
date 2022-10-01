@@ -31,7 +31,7 @@
 ![Brock DEV's github stats](https://github-readme-stats.vercel.app/api?username=BrockDeveloper&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 
-[website]: https://brockdeveloper.github.io
+[website]: https://brockdev.it
 [linkedin]: https://www.linkedin.com/in/andreabroccoletti
 [instagram]: https://www.instagram.com/andrea.broccoletti
 [twitter]: https://twitter.com/_ABroccoletti_
